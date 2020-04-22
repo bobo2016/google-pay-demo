@@ -1,4 +1,4 @@
-# Webpack Frontend Starterkit
+# Google Pay Demo
 
 [![Dependabot badge](https://flat.badgen.net/dependabot/wbkd/webpack-starter?icon=dependabot)](https://dependabot.com/)
 
