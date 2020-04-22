@@ -1,0 +1,29 @@
+{
+    "status" : "true",
+    "data": [
+        {
+            "id": "economy",
+            "label": "Standard Shipping(5-7 days)",
+            "amount":{
+                "currency": "USD",
+                "value": "0"
+            }
+        },
+        {
+            "id": "express",
+            "label": "Express(2-3 days)",
+            "amount":{
+                "currency": "USD",
+                "value": "5"
+            }
+        },
+        {
+            "id": "overnight",
+            "label": "Next Day delivery",
+            "amount":{
+                "currency": "USD",
+                "value": "12"
+            }
+        }
+    ]
+}
