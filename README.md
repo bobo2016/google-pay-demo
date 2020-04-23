@@ -1,4 +1,4 @@
-# Google Pay Demo
+# Google Pay Demo for Chrome Express Checkout
 
 
 ### Installation
